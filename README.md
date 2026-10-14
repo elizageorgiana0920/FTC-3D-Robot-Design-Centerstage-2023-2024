@@ -25,8 +25,6 @@ The central challenge was to fit several competition mechanisms into a single ro
 
 ## Robot architecture
 
-![Multiple views of the robot CAD assembly](assets/robot-assembly.png)
-
 The robot design brings together four major subsystems:
 
 | Subsystem | Design approach | Engineering considerations |
@@ -80,14 +78,6 @@ This project helped me develop an engineering mindset that also translates to so
 - **Iteration and debugging:** recognizing the limitations of early prototypes and refining designs accordingly.
 - **Integration thinking:** anticipating how a change to one mechanism affects the complete system.
 - **Technical collaboration:** working in a shared design environment and documenting decisions.
-
-## Project documentation
-
-The original **15-page technical report** (in Romanian) explains the competition requirements, Onshape workflow, mechanisms, design alternatives, and testing concepts.
-
-**[Read the technical report](documentation/robot-design-report.pdf)**
-
-> This repository is a **CAD design portfolio**, not a software implementation repository. It does not claim to contain robot firmware, autonomous-control code, or measured performance data beyond the design observations in the report.
 
 ## Team and credits
 
