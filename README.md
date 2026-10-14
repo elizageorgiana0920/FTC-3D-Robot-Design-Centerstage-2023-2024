@@ -93,8 +93,7 @@ The original **15-page technical report** (in Romanian) explains the competition
 
 **Eliza-Georgiana Boroș** and **Amalia-Elena Tănase**  
 High-school computer science certification project (2025)  
-Colegiul Național „Dimitrie Cantemir”, Onești  
-Coordinating teacher: Otilia-Simona Panfil
+Colegiul Național „Dimitrie Cantemir”, Onești
 
 The design work originated in the context of the **FIRST Tech Challenge 2023–2024 CENTERSTAGE** season. Robot CAD visuals are reproduced from the team's project documentation.
 
